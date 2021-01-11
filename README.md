@@ -1,1 +1,1 @@
-# threejs_practice
+# Three.js code examples and concepts practice
